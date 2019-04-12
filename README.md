@@ -1,16 +1,8 @@
 # IDS-Project
 
-Abhishek Goyal
-16UCS009
+My teammates: Akash Agrawal, Abhishek Goyal & Animesh Gupta
 
-Akash Agrawal
-16UCS020
-
-Akshat Sharma
-16UCS023
-
-Animesh Gupta
-16UCS038
+(https://youtu.be/WAiTlT9mDVs)
 
 
 ## Objective: Apply ML Classification algorithms on a data set and get inferences from the data. Also show the algorithm and concept behind it.
